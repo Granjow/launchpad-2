@@ -1,0 +1,21 @@
+{
+  "name": "launchpad-2",
+  "version": "0.0.1",
+  "description": "JavaScript library for interacting with Novation’s midi board LAUNCHPAD.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "launchpad",
+    "novation",
+    "midi",
+    "mk2",
+    "mkii"
+  ],
+  "author": "Simon A. Eugster <simon.eu@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "midi": "^0.9.5"
+  }
+}
